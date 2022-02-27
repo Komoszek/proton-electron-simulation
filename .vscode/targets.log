@@ -1,0 +1,411 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: *** No rule to make target 'all'.  Stop.
+ 
+# GNU Make 4.3
+ 
+# Built for x86_64-pc-linux-gnu
+ 
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+ 
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+ 
+# This is free software: you are free to change and redistribute it.
+ 
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+ 
+# Make data base, printed on Sun Feb 27 19:33:01 2022
+ 
+
+# Variables
+ 
+
+ 
+# environment
+ 
+GDK_BACKEND = x11
+ 
+# environment
+ 
+LC_ALL = C
+ 
+# environment
+ 
+NO_AT_BRIDGE = 1
+ 
+# environment
+ 
+GJS_DEBUG_OUTPUT = stderr
+ 
+# environment
+ 
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-97adb0c9-ec18-4ea5-89cc-4dec41e53dab.sock
+ 
+# environment
+ 
+LC_NAME = pl_PL.UTF-8
+ 
+# environment
+ 
+LC_NUMERIC = pl_PL.UTF-8
+ 
+# environment
+ 
+VSCODE_CWD = /home/komo
+ 
+# environment
+ 
+WINDOWPATH = 2
+ 
+# environment
+ 
+UBUNTU_MENUPROXY = 1
+ 
+# environment
+ 
+LC_ADDRESS = pl_PL.UTF-8
+ 
+# environment
+ 
+GDM_LANG = en_US.utf8
+ 
+# default
+ 
+MAKE_COMMAND := make
+ 
+# automatic
+ 
+@D = $(patsubst %/,%,$(dir $@))
+ 
+# environment
+ 
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+ 
+# default
+ 
+.VARIABLES := 
+ 
+# environment
+ 
+PWD = /home/komo/Documents/studia/2021Z/gpu/proton-electron-simulation
+ 
+# automatic
+ 
+%D = $(patsubst %/,%,$(dir $%))
+ 
+# environment
+ 
+MAIL = /var/spool/mail/komo
+ 
+# automatic
+ 
+^D = $(patsubst %/,%,$(dir $^))
+ 
+# environment
+ 
+VSCODE_LOG_STACK = false
+ 
+# automatic
+ 
+%F = $(notdir $%)
+ 
+# environment
+ 
+VSCODE_CODE_CACHE_PATH = /home/komo/.config/Code/CachedData/f80445acd5a3dadef24aa209168452a3d97cc326
+ 
+# environment
+ 
+LANG = C
+ 
+# environment
+ 
+XAUTHORITY = /run/user/1000/gdm/Xauthority
+ 
+# default
+ 
+.LOADED := 
+ 
+# default
+ 
+.INCLUDE_DIRS = /usr/include /usr/local/include /usr/include
+ 
+# makefile
+ 
+MAKEFLAGS = pqrR
+ 
+# makefile
+ 
+CURDIR := /home/komo/Documents/studia/2021Z/gpu/proton-electron-simulation
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+MFLAGS = -pqrR
+# environment
+SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
+# default
+.SHELLFLAGS := -c
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+XDG_SESSION_DESKTOP = gnome-xorg
+# environment
+VSCODE_CRASH_REPORTER_START_OPTIONS = {"companyName":"Microsoft","productName":"VSCode","submitURL":"appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=dce941f3-8ef2-4bf4-a68a-c026d4355b62&iid=dce941f3-8ef2-4bf4-a68a-c026d4355b62&sid=dce941f3-8ef2-4bf4-a68a-c026d4355b62","uploadToServer":true}
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 35376
+# environment
+XDG_SESSION_TYPE = x11
+# environment
+CUDA_PATH = /opt/cuda
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+SESSION_MANAGER = local/komo-pc:@/tmp/.ICE-unix/1185,unix/komo-pc:/tmp/.ICE-unix/1185
+# automatic
+*F = $(notdir $*)
+# environment
+QT_QPA_PLATFORMTHEME = qt5ct
+# environment
+CHROME_DESKTOP = code-url-handler.desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+BREAKPAD_DUMP_LOCATION = /home/komo/.config/Code/exthost Crash Reports
+# default
+MAKE_HOST := x86_64-pc-linux-gnu
+# makefile
+SHELL = /bin/sh
+# default
+MAKECMDGOALS := all
+# environment
+GJS_DEBUG_TOPICS = JS ERROR;JS LOG
+# environment
+SHLVL = 1
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+FLUTTER_HOME = /opt/flutter
+# environment
+PATH = /home/komo/.local/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/opt/cuda/bin:/opt/cuda/nsight_compute:/opt/cuda/nsight_systems/bin:/opt/flutter/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+# default
+MAKEFILES := 
+# environment
+LC_MONETARY = pl_PL.UTF-8
+# environment
+MOTD_SHOWN = pam
+# automatic
+^F = $(notdir $^)
+# environment
+LC_TIME = pl_PL.UTF-8
+# environment
+INVOCATION_ID = 7e2ae98e1afd464db2b769665e8248bd
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+USERNAME = komo
+# environment
+MUTTER_ALLOW_HYBRID_GPUS = 1
+# environment
+LC_TELEPHONE = pl_PL.UTF-8
+# automatic
+?F = $(notdir $?)
+# environment
+XDG_CURRENT_DESKTOP = GNOME
+# automatic
++F = $(notdir $+)
+# environment
+DESKTOP_SESSION = gnome-xorg
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = GNOME
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+LOGNAME = komo
+# environment
+GIO_LAUNCHED_DESKTOP_FILE = /usr/share/applications/visual-studio-code.desktop
+# makefile
+.DEFAULT_GOAL := simulation
+# environment
+SYSTEMD_EXEC_PID = 1202
+# environment
+EDITOR = /usr/bin/nano
+# environment
+DISPLAY = :1
+# environment
+GTK_MODULES = appmenu-gtk-module
+# environment
+USER = komo
+# default
+MAKE_VERSION := 4.3
+# environment
+MANAGERPID = 1082
+# environment
+LC_MEASUREMENT = pl_PL.UTF-8
+# environment
+GIO_LAUNCHED_DESKTOP_FILE_PID = 35359
+# environment
+_ = /usr/bin/make
+# environment
+LC_PAPER = pl_PL.UTF-8
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# environment
+JOURNAL_STREAM = 8:30907
+# environment
+XDG_SESSION_CLASS = user
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+HOME = /home/komo
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-b5317af5-1.64.2-main.sock
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink guile load
+# environment
+XDG_MENU_PREFIX = gnome-
+# environment
+GDMSESSION = gnome-xorg
+# environment
+LC_IDENTIFICATION = pl_PL.UTF-8
+# variable set hash-table stats:
+# Load=108/1024=11%, Rehash=0, Collisions=9/138=7%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 66306, inode 4686768): 17 files, no impossibilities.
+
+# 17 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+ElectricFieldCuda.cu:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-02-27 19:32:14.295558715
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+simulation-cuda.cu:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+clean:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 8):
+	rm pe-simulation
+
+sm_50: simulation-cuda.cu main.cpp ElectricFieldCuda.cu ElectricFieldCpu.cpp Defines.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 5):
+	nvcc -arch=sm_50 main.cpp simulation-cuda.cu ElectricFieldCuda.cu ElectricFieldCpu.cpp Defines.cpp -o pe-simulation -I/opt/cuda/samples/common/inc -lGL -lGLU -lglut -lGLEW  -lm --compiler-options -Wall
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+simulation: simulation-cuda.cu main.cpp ElectricFieldCuda.cu ElectricFieldCpu.cpp Defines.cpp
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 2):
+	nvcc main.cpp simulation-cuda.cu ElectricFieldCuda.cu ElectricFieldCpu.cpp Defines.cpp -o pe-simulation -I/opt/cuda/samples/common/inc -lGL -lGLU -lglut -lGLEW  -lm --compiler-options -Wall
+
+# Not a target:
+main.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Defines.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+.PHONY:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 11):
+	clean
+
+# Not a target:
+ElectricFieldCpu.cpp:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=13/1024=1%, Rehash=0, Collisions=0/33=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 26 / storage = 320 B / avg = 12 B
+# current buf: size = 8162 B / used = 320 B / count = 26 / avg = 12 B
+
+# strcache performance: lookups = 44 / hit rate = 40%
+# hash-table stats:
+# Load=26/8192=0%, Rehash=0, Collisions=0/44=0%
+# Finished Make data base on Sun Feb 27 19:33:01 2022
+
+ 
